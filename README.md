@@ -4,10 +4,9 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
+* Leonardo César da Silva
 * Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+
 
 ## Professores responsáveis
 
