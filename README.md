@@ -5,7 +5,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 ## Alunos integrantes da equipe
 
 * Leonardo César da Silva
-* Nome completo do aluno 2
+* João Francisco Carvalho Soares de Oliveira Queiroga
 
 
 ## Professores responsáveis
